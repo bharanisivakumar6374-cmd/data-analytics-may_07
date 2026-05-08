@@ -1,0 +1,59 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv(r"C:\Users\BHARANI\Downloads\random_laptop_dataset_250_rows.csv")
+
+# Group by brand and calculate prices
+brand_stats = df.groupby('Brand')['Price_USD'].agg([
+    'mean', 'max', 'min'
+]).reset_index()
+
+# Rename columns
+brand_stats.columns = [
+    'Brand',
+    'Average_Price',
+    'Highest_Price',
+    'Lowest_Price'
+]
+
+# Find highest and lowest average price brands
+highest_brand = brand_stats.loc[
+    brand_stats['Average_Price'].idxmax()
+]
+
+lowest_brand = brand_stats.loc[
+    brand_stats['Average_Price'].idxmin()
+]
+
+# Difference calculation
+difference = round(
+    highest_brand['Average_Price'] -
+    lowest_brand['Average_Price'], 2
+)
+
+# Print results
+print("Brand Price Analysis\n")
+print(brand_stats)
+
+print("\nHighest Average Price Brand:")
+print(highest_brand)
+
+print("\nLowest Average Price Brand:")
+print(lowest_brand)
+
+print(f"\nPrice Difference: ${difference}")
+
+# Plot chart
+plt.figure(figsize=(8,5))
+
+plt.bar(
+    brand_stats['Brand'],
+    brand_stats['Average_Price']
+)
+
+plt.xlabel("Brand")
+plt.ylabel("Average Price (USD)")
+plt.title("Average Laptop Price by Brand")
+
+plt.show()
