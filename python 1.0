@@ -1,0 +1,35 @@
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv(r"C:\Users\BHARANI\Downloads\random_laptop_dataset_250_rows.csv")
+
+# Select particular brands
+selected_brands = ['HP', 'Apple']
+
+# Filter dataset
+filtered_df = df[df['Brand'].isin(selected_brands)]
+
+# Brand-wise sales analysis
+sales_report = filtered_df.groupby('Brand').agg(
+    Sales_Count=('Brand', 'size'),
+    Total_Sales_Value=('Price_USD', 'sum'),
+    Average_Price=('Price_USD', 'mean')
+).reset_index()
+
+print("Sales Report:\n")
+print(sales_report)
+
+# Find highest and lowest sales brand
+highest_sales = sales_report.loc[
+    sales_report['Total_Sales_Value'].idxmax()
+]
+
+lowest_sales = sales_report.loc[
+    sales_report['Total_Sales_Value'].idxmin()
+]
+
+print("\nHighest Sales Brand:")
+print(highest_sales)
+
+print("\nLowest Sales Brand:")
+print(lowest_sales)
