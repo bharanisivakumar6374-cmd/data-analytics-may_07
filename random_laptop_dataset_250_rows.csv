@@ -1,0 +1,251 @@
+Laptop_ID,Brand,Model,Processor,RAM_GB,Storage_GB,GPU,Operating_System,Screen_Size,Price_USD
+1,MSI,Model-48TJ,Ryzen 7,32,1024,RTX 3050,macOS,13.3,1337
+2,Asus,Model-84If,Ryzen 7,16,512,Intel UHD,macOS,14.0,2254
+3,Lenovo,Model-03mz,Intel i3,16,1024,NVIDIA GTX 1650,macOS,14.0,618
+4,MSI,Model-55xM,Ryzen 7,4,256,RTX 4060,Windows 10,17.3,2104
+5,HP,Model-13Js,Ryzen 5,32,1024,Intel UHD,Windows 10,14.0,652
+6,Apple,Model-86hn,Intel i5,16,512,NVIDIA GTX 1650,Windows 11,13.3,439
+7,Lenovo,Model-73ls,Ryzen 5,16,256,Intel UHD,Windows 10,14.0,655
+8,Acer,Model-75GM,Intel i3,8,1024,RTX 4060,Windows 11,13.3,1031
+9,Lenovo,Model-81wd,Ryzen 7,8,256,AMD Radeon,macOS,14.0,1938
+10,HP,Model-94Sh,Intel i5,32,1024,RTX 4060,Windows 11,13.3,2021
+11,MSI,Model-77aR,Intel i3,4,1024,NVIDIA GTX 1650,Windows 10,15.6,901
+12,Dell,Model-99sa,Intel i7,8,512,RTX 4060,Windows 11,17.3,750
+13,MSI,Model-49QF,Ryzen 7,16,256,RTX 4060,macOS,17.3,2025
+14,Dell,Model-74tP,Ryzen 7,16,1024,RTX 4060,Windows 11,14.0,2170
+15,MSI,Model-65Bj,Intel i7,4,512,NVIDIA GTX 1650,Windows 10,13.3,1180
+16,Apple,Model-90Yk,Intel i5,8,256,Intel UHD,Windows 11,13.3,1493
+17,Apple,Model-44wj,Intel i7,32,512,RTX 4060,Windows 10,15.6,1619
+18,Apple,Model-96UE,Intel i5,4,256,NVIDIA GTX 1650,Windows 11,13.3,515
+19,HP,Model-95xk,Ryzen 5,32,512,NVIDIA GTX 1650,Windows 11,16.0,1956
+20,Acer,Model-68Ym,Intel i3,32,512,AMD Radeon,macOS,14.0,2286
+21,Dell,Model-13ra,Ryzen 5,16,256,RTX 3050,macOS,17.3,2448
+22,MSI,Model-38fI,Ryzen 7,16,1024,Intel UHD,Ubuntu,14.0,1321
+23,Lenovo,Model-92oQ,Intel i5,8,256,RTX 4060,Windows 10,17.3,1156
+24,Acer,Model-95XT,Intel i3,4,512,NVIDIA GTX 1650,Windows 11,14.0,722
+25,HP,Model-36Dj,Intel i3,4,256,RTX 3050,Windows 11,16.0,1521
+26,Lenovo,Model-43an,Intel i5,16,256,NVIDIA GTX 1650,macOS,17.3,2474
+27,Dell,Model-09wl,Intel i3,16,256,NVIDIA GTX 1650,Ubuntu,16.0,2409
+28,Apple,Model-97SC,Intel i7,32,1024,Intel UHD,Windows 11,13.3,1124
+29,Asus,Model-00Zm,Ryzen 7,32,512,AMD Radeon,Windows 10,14.0,948
+30,HP,Model-31XG,Intel i7,4,256,RTX 4060,Ubuntu,13.3,2143
+31,Apple,Model-27LW,Intel i3,16,512,AMD Radeon,macOS,17.3,1174
+32,Lenovo,Model-12qU,Ryzen 7,8,256,RTX 4060,Windows 10,15.6,1424
+33,Lenovo,Model-90Zv,Intel i7,32,256,Intel UHD,Windows 10,17.3,2323
+34,Asus,Model-79DH,Intel i5,32,512,NVIDIA GTX 1650,Windows 11,17.3,678
+35,Apple,Model-16jE,Ryzen 7,32,256,NVIDIA GTX 1650,macOS,13.3,2221
+36,MSI,Model-93ee,Intel i3,16,512,AMD Radeon,macOS,16.0,439
+37,Acer,Model-66LU,Ryzen 5,8,256,RTX 4060,Windows 11,15.6,1292
+38,Apple,Model-42LS,Intel i7,8,1024,Intel UHD,Windows 11,13.3,2474
+39,MSI,Model-69ZW,Ryzen 5,4,1024,RTX 3050,Windows 11,17.3,746
+40,Acer,Model-35NP,Intel i3,4,256,Intel UHD,macOS,17.3,1770
+41,Asus,Model-67Mk,Ryzen 7,16,1024,RTX 4060,Windows 10,13.3,505
+42,MSI,Model-38VE,Intel i5,16,256,NVIDIA GTX 1650,Windows 11,15.6,2247
+43,Asus,Model-52FC,Intel i5,16,512,RTX 3050,macOS,13.3,1859
+44,Apple,Model-12jZ,Intel i3,8,512,Intel UHD,macOS,15.6,2075
+45,HP,Model-36LB,Intel i3,16,512,AMD Radeon,macOS,14.0,1903
+46,Asus,Model-42Jc,Intel i3,32,1024,RTX 4060,Ubuntu,15.6,847
+47,HP,Model-18iO,Intel i5,16,256,RTX 4060,Windows 10,14.0,846
+48,Acer,Model-26Vw,Intel i7,4,256,NVIDIA GTX 1650,Ubuntu,13.3,1171
+49,Lenovo,Model-46pY,Ryzen 7,16,512,RTX 4060,Windows 10,13.3,2105
+50,Lenovo,Model-79cK,Intel i3,16,512,RTX 4060,macOS,17.3,1283
+51,Lenovo,Model-13Wk,Ryzen 7,8,512,AMD Radeon,Windows 11,15.6,1249
+52,MSI,Model-22nM,Intel i7,4,256,RTX 3050,Windows 11,15.6,2209
+53,Apple,Model-68Qk,Intel i7,16,256,Intel UHD,Windows 10,17.3,1022
+54,Dell,Model-51iy,Ryzen 5,16,1024,RTX 4060,Windows 10,14.0,600
+55,HP,Model-26uO,Intel i3,4,1024,RTX 3050,macOS,16.0,1966
+56,Asus,Model-64wV,Intel i3,32,1024,AMD Radeon,Windows 10,17.3,834
+57,Apple,Model-82AZ,Ryzen 5,4,1024,RTX 3050,Ubuntu,17.3,1021
+58,Acer,Model-31TM,Ryzen 5,4,256,Intel UHD,Ubuntu,16.0,365
+59,MSI,Model-48JR,Ryzen 5,16,1024,RTX 4060,Ubuntu,15.6,1504
+60,Apple,Model-41We,Ryzen 5,32,1024,NVIDIA GTX 1650,Ubuntu,17.3,2108
+61,Lenovo,Model-34NI,Ryzen 7,4,256,RTX 3050,Windows 11,13.3,1069
+62,Apple,Model-23Sa,Intel i7,4,512,Intel UHD,macOS,13.3,314
+63,Dell,Model-89BA,Ryzen 7,8,256,RTX 3050,Ubuntu,17.3,522
+64,Lenovo,Model-58BJ,Ryzen 7,16,1024,NVIDIA GTX 1650,Windows 10,13.3,334
+65,MSI,Model-71Xh,Intel i7,32,512,NVIDIA GTX 1650,Ubuntu,13.3,573
+66,Acer,Model-66KG,Intel i3,16,512,AMD Radeon,Windows 11,13.3,1718
+67,HP,Model-85tT,Ryzen 5,32,1024,RTX 3050,macOS,15.6,1485
+68,Asus,Model-44zw,Intel i3,4,512,AMD Radeon,Windows 11,17.3,1501
+69,Lenovo,Model-20CL,Intel i7,32,1024,AMD Radeon,Windows 11,15.6,1121
+70,Lenovo,Model-88np,Ryzen 5,32,256,NVIDIA GTX 1650,macOS,14.0,438
+71,Apple,Model-62Iw,Ryzen 7,4,1024,RTX 4060,Windows 11,14.0,1470
+72,Lenovo,Model-74ec,Intel i7,16,512,RTX 4060,macOS,14.0,689
+73,Dell,Model-89Nn,Intel i5,16,512,Intel UHD,Ubuntu,17.3,2443
+74,Dell,Model-34Nw,Ryzen 5,16,256,Intel UHD,Windows 11,14.0,1147
+75,Dell,Model-29wV,Intel i7,4,256,RTX 3050,Ubuntu,14.0,2088
+76,HP,Model-60jW,Ryzen 5,8,256,AMD Radeon,Windows 10,15.6,721
+77,HP,Model-54mc,Ryzen 7,16,256,Intel UHD,Windows 11,14.0,756
+78,MSI,Model-40Ul,Ryzen 7,32,512,RTX 3050,Windows 10,15.6,724
+79,Apple,Model-25VT,Ryzen 5,8,512,RTX 3050,Windows 10,17.3,1491
+80,Asus,Model-91cK,Ryzen 7,4,512,AMD Radeon,Ubuntu,17.3,1647
+81,MSI,Model-11nW,Intel i5,16,512,RTX 4060,Ubuntu,16.0,901
+82,Acer,Model-08pw,Ryzen 7,32,512,Intel UHD,Windows 11,16.0,1832
+83,Apple,Model-47yt,Intel i3,16,1024,Intel UHD,macOS,16.0,482
+84,MSI,Model-36CJ,Intel i5,32,512,RTX 3050,macOS,16.0,2407
+85,Dell,Model-17yE,Intel i3,8,256,AMD Radeon,macOS,14.0,673
+86,Apple,Model-88qW,Ryzen 5,4,1024,Intel UHD,Windows 10,17.3,1743
+87,MSI,Model-28CC,Intel i3,4,1024,RTX 4060,macOS,15.6,1995
+88,Dell,Model-13Nq,Intel i5,16,256,RTX 3050,Windows 11,15.6,1684
+89,MSI,Model-11xn,Ryzen 5,32,512,AMD Radeon,Windows 10,17.3,689
+90,Apple,Model-10hz,Ryzen 7,8,1024,RTX 4060,Ubuntu,16.0,933
+91,Asus,Model-08wD,Ryzen 7,4,512,RTX 3050,macOS,16.0,1071
+92,MSI,Model-42aj,Intel i5,8,1024,RTX 3050,Ubuntu,13.3,2498
+93,Acer,Model-77KU,Intel i3,16,512,RTX 4060,Ubuntu,14.0,1178
+94,Lenovo,Model-49GD,Intel i7,32,512,NVIDIA GTX 1650,Windows 10,16.0,1591
+95,Apple,Model-66vK,Ryzen 5,32,1024,AMD Radeon,Windows 10,17.3,431
+96,Lenovo,Model-19Yl,Intel i7,4,512,NVIDIA GTX 1650,Windows 11,17.3,2379
+97,HP,Model-23Kx,Ryzen 5,16,1024,RTX 3050,Ubuntu,17.3,1189
+98,Dell,Model-37Zw,Intel i3,16,512,NVIDIA GTX 1650,Windows 11,13.3,2236
+99,Asus,Model-95PW,Ryzen 5,32,512,RTX 3050,macOS,15.6,1823
+100,MSI,Model-02vZ,Ryzen 5,4,1024,NVIDIA GTX 1650,Windows 10,13.3,2238
+101,MSI,Model-13Fh,Ryzen 7,4,512,Intel UHD,macOS,16.0,1869
+102,HP,Model-47JY,Ryzen 5,8,256,AMD Radeon,Ubuntu,15.6,950
+103,Dell,Model-83hm,Ryzen 7,8,256,RTX 4060,Ubuntu,15.6,1559
+104,Apple,Model-46pq,Ryzen 5,32,512,Intel UHD,Windows 11,15.6,1813
+105,Acer,Model-01WU,Intel i7,4,512,AMD Radeon,Windows 10,16.0,760
+106,Apple,Model-26kI,Intel i3,4,256,RTX 4060,macOS,15.6,452
+107,Apple,Model-95yO,Ryzen 5,4,1024,NVIDIA GTX 1650,Windows 10,17.3,1163
+108,MSI,Model-58uK,Intel i7,4,1024,NVIDIA GTX 1650,macOS,13.3,1497
+109,Asus,Model-40aZ,Intel i7,32,1024,Intel UHD,macOS,16.0,1812
+110,Acer,Model-24sE,Ryzen 5,16,256,RTX 3050,Windows 10,13.3,837
+111,Asus,Model-25rT,Ryzen 7,8,1024,NVIDIA GTX 1650,Windows 11,14.0,1395
+112,Asus,Model-39Qj,Ryzen 7,8,512,NVIDIA GTX 1650,macOS,14.0,796
+113,Lenovo,Model-91dT,Intel i3,16,1024,AMD Radeon,Ubuntu,13.3,424
+114,Apple,Model-56xV,Intel i7,8,1024,AMD Radeon,Windows 10,16.0,2112
+115,Apple,Model-04ul,Intel i3,4,256,AMD Radeon,Windows 10,17.3,2432
+116,Lenovo,Model-07PO,Intel i3,16,1024,Intel UHD,macOS,16.0,827
+117,HP,Model-15OR,Intel i3,32,1024,RTX 3050,Windows 10,13.3,713
+118,HP,Model-14ma,Ryzen 5,4,512,NVIDIA GTX 1650,Windows 10,17.3,1563
+119,Asus,Model-32tr,Intel i5,8,256,RTX 4060,Windows 11,14.0,2480
+120,Lenovo,Model-37dW,Intel i7,4,1024,AMD Radeon,macOS,13.3,367
+121,HP,Model-53xl,Intel i7,8,1024,RTX 4060,Windows 10,16.0,2060
+122,Acer,Model-95cS,Ryzen 5,4,1024,RTX 3050,macOS,17.3,890
+123,Apple,Model-73wr,Intel i3,16,1024,RTX 3050,Windows 10,14.0,2468
+124,Dell,Model-64nb,Ryzen 5,16,512,AMD Radeon,Windows 11,14.0,1940
+125,Dell,Model-72uV,Intel i7,32,512,NVIDIA GTX 1650,macOS,14.0,2268
+126,Apple,Model-83eE,Ryzen 5,4,1024,NVIDIA GTX 1650,Windows 11,14.0,1368
+127,Apple,Model-06zx,Ryzen 7,32,1024,AMD Radeon,Windows 10,17.3,339
+128,Acer,Model-67Hu,Ryzen 5,8,256,RTX 4060,Windows 10,13.3,1155
+129,Acer,Model-54kf,Intel i5,32,256,Intel UHD,macOS,16.0,2237
+130,Asus,Model-56ju,Intel i3,16,1024,Intel UHD,Ubuntu,16.0,2007
+131,Acer,Model-07Nb,Intel i5,4,512,Intel UHD,Windows 10,16.0,1812
+132,Acer,Model-05Gu,Intel i7,4,1024,AMD Radeon,Ubuntu,16.0,2476
+133,Dell,Model-12Wx,Ryzen 7,16,512,NVIDIA GTX 1650,macOS,14.0,988
+134,Acer,Model-23yT,Ryzen 7,4,256,Intel UHD,Ubuntu,17.3,1368
+135,Acer,Model-10ul,Intel i3,8,1024,AMD Radeon,macOS,14.0,441
+136,Asus,Model-68yI,Intel i7,32,1024,NVIDIA GTX 1650,Windows 10,15.6,1151
+137,Asus,Model-07by,Ryzen 5,4,512,AMD Radeon,Windows 10,13.3,1232
+138,HP,Model-10EW,Intel i3,4,256,NVIDIA GTX 1650,Windows 11,16.0,778
+139,Apple,Model-55fd,Intel i7,4,512,Intel UHD,Windows 10,16.0,1949
+140,Acer,Model-79iv,Intel i7,32,256,NVIDIA GTX 1650,Windows 10,13.3,2423
+141,Asus,Model-57ut,Ryzen 7,8,512,RTX 4060,Windows 11,15.6,920
+142,Lenovo,Model-88Ld,Intel i3,8,512,Intel UHD,Windows 10,17.3,807
+143,MSI,Model-95iI,Ryzen 5,4,256,RTX 3050,macOS,16.0,1466
+144,Dell,Model-05PN,Intel i5,16,256,Intel UHD,Windows 10,15.6,1557
+145,HP,Model-55PO,Intel i3,32,512,AMD Radeon,Windows 11,16.0,868
+146,Apple,Model-93kz,Intel i3,4,512,RTX 3050,macOS,15.6,1450
+147,HP,Model-36RM,Intel i3,16,256,RTX 3050,Ubuntu,15.6,1948
+148,Asus,Model-89jS,Intel i7,32,512,NVIDIA GTX 1650,Ubuntu,13.3,1587
+149,HP,Model-66fk,Intel i5,16,512,AMD Radeon,Windows 11,14.0,1641
+150,MSI,Model-91zV,Intel i5,4,1024,RTX 4060,Windows 10,13.3,2448
+151,Dell,Model-40WB,Intel i7,4,256,Intel UHD,Ubuntu,17.3,2036
+152,Acer,Model-17BV,Ryzen 7,8,512,AMD Radeon,Windows 11,17.3,2338
+153,Lenovo,Model-73iB,Ryzen 5,16,512,RTX 3050,macOS,15.6,1461
+154,Acer,Model-49dG,Ryzen 5,16,512,AMD Radeon,Ubuntu,15.6,534
+155,Asus,Model-82IV,Ryzen 5,16,512,AMD Radeon,macOS,13.3,2282
+156,MSI,Model-80Mx,Intel i7,16,256,RTX 4060,Windows 10,15.6,2122
+157,Dell,Model-19Ig,Intel i3,32,512,RTX 4060,Ubuntu,16.0,2393
+158,Lenovo,Model-73ih,Intel i5,4,1024,RTX 3050,Windows 11,15.6,600
+159,Asus,Model-60te,Intel i5,8,256,RTX 3050,Windows 11,13.3,467
+160,Dell,Model-72CW,Intel i5,16,256,NVIDIA GTX 1650,Windows 10,16.0,470
+161,Apple,Model-02Kg,Ryzen 7,8,1024,Intel UHD,Windows 10,14.0,1722
+162,Dell,Model-06be,Intel i5,4,1024,AMD Radeon,Ubuntu,13.3,1672
+163,Apple,Model-01xH,Ryzen 7,4,1024,RTX 4060,Windows 10,16.0,1914
+164,MSI,Model-51Bt,Ryzen 7,4,512,RTX 3050,Ubuntu,15.6,982
+165,Lenovo,Model-84jB,Intel i5,4,512,NVIDIA GTX 1650,Ubuntu,14.0,2087
+166,HP,Model-55Wj,Ryzen 7,16,1024,RTX 3050,Windows 10,17.3,2282
+167,Dell,Model-70bb,Intel i3,32,1024,AMD Radeon,Windows 10,13.3,1230
+168,Acer,Model-11xP,Ryzen 5,8,1024,Intel UHD,Windows 11,15.6,1520
+169,Dell,Model-95ow,Intel i3,8,512,RTX 4060,Windows 10,14.0,1757
+170,Dell,Model-88dq,Intel i7,8,256,NVIDIA GTX 1650,Ubuntu,13.3,1669
+171,Dell,Model-91UQ,Intel i7,32,512,Intel UHD,Ubuntu,15.6,2161
+172,Dell,Model-59wq,Intel i5,16,512,RTX 4060,Windows 10,13.3,2282
+173,Asus,Model-20Ke,Intel i3,4,256,RTX 4060,macOS,14.0,1678
+174,Acer,Model-43UU,Intel i7,32,256,RTX 4060,Windows 11,16.0,2295
+175,Dell,Model-56cB,Ryzen 5,32,256,NVIDIA GTX 1650,macOS,15.6,804
+176,Lenovo,Model-64ar,Ryzen 7,8,1024,NVIDIA GTX 1650,Windows 10,16.0,855
+177,Acer,Model-49jm,Intel i3,32,512,AMD Radeon,Windows 11,15.6,2105
+178,Lenovo,Model-55lj,Intel i5,32,1024,RTX 3050,Windows 11,17.3,1324
+179,HP,Model-13aC,Intel i5,32,256,RTX 3050,macOS,15.6,1378
+180,Asus,Model-05RO,Ryzen 7,16,1024,RTX 4060,Windows 10,17.3,678
+181,MSI,Model-43XY,Ryzen 5,16,1024,Intel UHD,Windows 11,17.3,595
+182,Dell,Model-61fE,Intel i7,16,256,NVIDIA GTX 1650,macOS,15.6,1567
+183,Dell,Model-45cF,Intel i3,32,1024,AMD Radeon,Windows 10,14.0,2289
+184,Apple,Model-42Kk,Intel i7,8,1024,RTX 4060,macOS,17.3,350
+185,Acer,Model-19Mi,Intel i3,8,256,RTX 3050,Windows 11,17.3,1019
+186,Apple,Model-42SW,Intel i5,8,256,RTX 3050,macOS,14.0,685
+187,Asus,Model-37oB,Intel i3,8,512,Intel UHD,Windows 10,15.6,1994
+188,Acer,Model-07Pg,Intel i5,4,256,Intel UHD,Ubuntu,17.3,2450
+189,MSI,Model-39Nt,Intel i3,4,256,RTX 3050,Windows 10,16.0,1111
+190,Asus,Model-06LA,Ryzen 7,16,256,NVIDIA GTX 1650,Windows 11,14.0,2144
+191,Lenovo,Model-85FN,Ryzen 5,4,256,RTX 3050,Ubuntu,17.3,1357
+192,Apple,Model-58TS,Intel i7,8,1024,RTX 3050,macOS,13.3,1367
+193,HP,Model-36gO,Intel i5,32,1024,RTX 3050,Windows 11,17.3,1047
+194,Lenovo,Model-68Xs,Ryzen 5,32,512,Intel UHD,macOS,16.0,1447
+195,HP,Model-77vC,Intel i3,4,256,RTX 3050,macOS,14.0,585
+196,Apple,Model-77CL,Intel i3,4,512,RTX 4060,Ubuntu,14.0,1619
+197,Apple,Model-50TC,Intel i5,4,512,NVIDIA GTX 1650,Windows 10,17.3,991
+198,Acer,Model-85FL,Intel i3,4,512,AMD Radeon,Windows 11,14.0,662
+199,MSI,Model-73Xm,Intel i5,4,1024,Intel UHD,macOS,15.6,1419
+200,Lenovo,Model-30Rp,Intel i7,4,512,NVIDIA GTX 1650,Windows 10,14.0,706
+201,HP,Model-42HF,Ryzen 7,8,256,Intel UHD,Windows 11,16.0,2292
+202,MSI,Model-71bL,Intel i7,16,1024,AMD Radeon,Windows 10,15.6,1948
+203,MSI,Model-50eE,Intel i5,4,256,Intel UHD,macOS,16.0,515
+204,Acer,Model-79Kr,Intel i7,16,512,Intel UHD,Ubuntu,15.6,465
+205,MSI,Model-59gy,Ryzen 5,16,512,RTX 4060,Windows 11,15.6,2088
+206,Asus,Model-59LL,Ryzen 7,16,256,AMD Radeon,Windows 11,16.0,1406
+207,Dell,Model-01LU,Intel i3,32,512,RTX 4060,macOS,15.6,932
+208,Acer,Model-01DZ,Ryzen 7,32,512,RTX 3050,Windows 10,17.3,2261
+209,Apple,Model-01fV,Intel i5,8,512,NVIDIA GTX 1650,Windows 11,17.3,1645
+210,Lenovo,Model-77fH,Ryzen 5,16,1024,AMD Radeon,macOS,15.6,2043
+211,Dell,Model-68qP,Ryzen 5,16,512,AMD Radeon,Ubuntu,15.6,2174
+212,Asus,Model-56Uv,Ryzen 7,32,1024,RTX 3050,macOS,14.0,2460
+213,MSI,Model-18fI,Ryzen 5,32,512,AMD Radeon,Ubuntu,17.3,1574
+214,Apple,Model-34gf,Intel i5,4,512,AMD Radeon,Windows 10,17.3,984
+215,Dell,Model-61Qa,Intel i7,16,1024,RTX 3050,macOS,13.3,622
+216,Acer,Model-36Rx,Ryzen 7,16,1024,Intel UHD,Ubuntu,17.3,883
+217,Dell,Model-70HG,Ryzen 7,8,1024,RTX 3050,Windows 11,15.6,831
+218,Asus,Model-48Ir,Ryzen 7,32,256,RTX 3050,macOS,13.3,976
+219,Acer,Model-81VU,Ryzen 5,8,256,Intel UHD,Ubuntu,15.6,2042
+220,Dell,Model-78rc,Intel i5,8,256,RTX 3050,Ubuntu,15.6,1886
+221,MSI,Model-91jZ,Ryzen 5,32,512,RTX 4060,macOS,16.0,1538
+222,Asus,Model-19aa,Intel i3,32,256,RTX 4060,Windows 11,14.0,975
+223,Dell,Model-23WU,Ryzen 5,32,256,Intel UHD,Windows 11,15.6,2349
+224,Lenovo,Model-85QF,Ryzen 5,32,1024,AMD Radeon,Ubuntu,14.0,2123
+225,Dell,Model-77BX,Intel i7,16,1024,RTX 3050,macOS,16.0,1435
+226,HP,Model-86Ph,Ryzen 7,4,1024,Intel UHD,Windows 10,16.0,527
+227,Dell,Model-63oI,Ryzen 7,32,512,RTX 3050,Windows 11,16.0,316
+228,Asus,Model-04vr,Intel i3,8,512,RTX 4060,Ubuntu,16.0,1645
+229,MSI,Model-18EX,Ryzen 7,8,512,AMD Radeon,Ubuntu,15.6,1684
+230,Dell,Model-01bZ,Intel i5,16,1024,NVIDIA GTX 1650,Windows 11,17.3,2284
+231,MSI,Model-12Sh,Intel i7,8,1024,AMD Radeon,macOS,13.3,928
+232,Asus,Model-25Rl,Intel i5,16,1024,RTX 3050,Ubuntu,17.3,855
+233,HP,Model-16Qv,Intel i5,8,1024,NVIDIA GTX 1650,Windows 10,15.6,2424
+234,Dell,Model-37wf,Ryzen 5,32,256,RTX 4060,Ubuntu,17.3,1056
+235,HP,Model-20bO,Intel i3,16,1024,RTX 4060,Windows 10,14.0,453
+236,Acer,Model-50rw,Ryzen 7,4,256,RTX 3050,macOS,16.0,2364
+237,Dell,Model-53GF,Ryzen 5,16,256,NVIDIA GTX 1650,Windows 11,13.3,942
+238,HP,Model-55aL,Ryzen 5,32,256,AMD Radeon,Ubuntu,15.6,318
+239,Asus,Model-83wK,Intel i7,4,256,RTX 4060,macOS,14.0,452
+240,MSI,Model-09mw,Intel i5,16,256,RTX 3050,Ubuntu,13.3,2230
+241,HP,Model-77XT,Ryzen 5,16,1024,AMD Radeon,Windows 11,15.6,1895
+242,Acer,Model-01ud,Intel i5,16,1024,RTX 3050,macOS,14.0,858
+243,MSI,Model-38ci,Intel i7,4,512,Intel UHD,Windows 10,14.0,1624
+244,Dell,Model-81pD,Intel i5,8,1024,AMD Radeon,macOS,13.3,1310
+245,Lenovo,Model-87vj,Intel i3,8,512,RTX 4060,Windows 10,17.3,1233
+246,MSI,Model-57ZO,Intel i3,4,1024,RTX 4060,macOS,16.0,1986
+247,Lenovo,Model-30Kk,Intel i7,16,512,AMD Radeon,Windows 10,15.6,2402
+248,Lenovo,Model-28sG,Ryzen 5,16,256,AMD Radeon,Windows 10,14.0,2359
+249,HP,Model-52MG,Intel i7,16,512,NVIDIA GTX 1650,Ubuntu,16.0,1417
+250,Acer,Model-97zb,Ryzen 7,4,512,NVIDIA GTX 1650,Windows 11,16.0,2322
